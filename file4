@@ -1,0 +1,2 @@
+Just to check the build trigger with Webhook settings
+whenever any push from git the jenkins job clonerepo should run. 
